@@ -3,4 +3,45 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="colorLightBackground">#F9F9F9</color>
+
+    <color name="darkGrey">#0D0D0E</color>
+    <color name="dark">#171618</color>
+    <color name="wisteria">#9F9CA5</color>
+    <color name="purpleGrey">#8C8792</color>
+    <color name="charcoalGrey">#3E3B41</color>
+    <color name="purplishGrey">#78737F</color>
+    <color name="palePurple">#B3B0B8</color>
+    <color name="lavender">#C7C5CA</color>
+    <color name="paleViolet">#D1CFD4</color>
+    <color name="lightLavender">#DBDADD</color>
+    <color name="paleLavender">#E5E4E6</color>
+    <color name="paleGrey">#F9F8F9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="brownishRed">#8F2222</color>
+    <color name="reddish">#CF3131</color>
+    <color name="paleRed">#D65151</color>
+    <color name="darkPeach">#DD7171</color>
+    <color name="blush">#E9A0A0</color>
+    <color name="veryLightPink">#FBF0F0</color>
+    <color name="lightPeach">#F4D0D0</color>
+    <color name="mudBrown">#59330B</color>
+    <color name="brownishOrange">#D3791B</color>
+    <color name="paleOrange">#EBA964</color>
+    <color name="dustyOrange">#E79641</color>
+    <color name="peach">#F0BC87</color>
+    <color name="ligthPeach">#F6D9BB</color>
+    <color name="oliveBrown">#5E5005</color>
+    <color name="ocher">#BCA009</color>
+    <color name="maize">#F6DA45</color>
+    <color name="sunflowerYellow">#F3CF0D</color>
+    <color name="wheat">#F3CF0D</color>
+    <color name="parchment">#FBF0B5</color>
+    <color name="offWhite">#FEFBED</color>
+    <color name="pine">#1D472B</color>
+
+
+
+
+
 </resources>

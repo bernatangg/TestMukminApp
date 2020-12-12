@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TestMukminApp</string>
+    
+    <string name="headline_txt">Doa. Ikhtiar. Tawakal.</string>
+    <string name="login_btn">Masuk dengan Google</string>
+    <string name="register_btn">Daftar dengan Google</string>
+    <string name="tos_txt">Dengan mendaftarkan akun, saya menyetujui Aturan Layanan dan Kebijakan Privasi yang tertera.</string>
+
+    <string name="atau">ATAU</string>
 </resources>
